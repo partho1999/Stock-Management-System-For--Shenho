@@ -1,0 +1,80 @@
+{
+  "auth": [
+    {
+      "email": "sarker624452@gmail.com",
+      "username": "partho",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "email": "sarker624452@gmail.com",
+      "username": "partho",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "partho.sarkar@amlbd.com",
+      "username": "admin",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "data": [
+    {
+      "Code": "01",
+      "ProductName": "SNEHO BABY TOAST 130 GM",
+      "SelectSize": "250mg",
+      "SelectCategory": "tost",
+      "StockNumber": "1000",
+      "id": 1
+    },
+    {
+      "Code": "02",
+      "ProductName": "SNEHO BABY TOAST 130 GM",
+      "SelectSize": "300mg",
+      "SelectCategory": "tost",
+      "StockNumber": "500",
+      "id": 2
+    },
+    {
+      "Code": "03",
+      "ProductName": "test",
+      "SelectSize": "300mg",
+      "SelectCategory": "juice",
+      "StockNumber": "0",
+      "id": 3
+    },
+    {
+      "Code": "06",
+      "ProductName": "test",
+      "SelectSize": "300mg",
+      "SelectCategory": "juice",
+      "StockNumber": "0",
+      "id": 4
+    },
+    {
+      "Code": "007",
+      "ProductName": "test",
+      "SelectSize": "250mg",
+      "SelectCategory": "juice",
+      "StockNumber": "500",
+      "id": 5
+    },
+    {
+      "Code": "008",
+      "ProductName": "test",
+      "SelectSize": "300mg",
+      "SelectCategory": "cake",
+      "StockNumber": "40",
+      "id": 6
+    },
+    {
+      "Code": "009",
+      "ProductName": "abc",
+      "SelectSize": "300mg",
+      "SelectCategory": "cake",
+      "StockNumber": "0",
+      "id": 7
+    }
+  ]
+}
