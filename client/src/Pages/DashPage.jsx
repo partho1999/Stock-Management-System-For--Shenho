@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Layout from '../Layout/Layout';
 import axios from 'axios';
 import DashTable from '../Components/DashTable';
+import PieChart from '../Components/PieChart';
 
 const DashPage = () => {
     const [haveTable, SetHaveTable] =useState(false);
@@ -55,7 +56,9 @@ const DashPage = () => {
                     <div>
                         {haveTable ? <DashTable  data={inStockData}/> : <p>there is no data!</p>}
                     </div>
-                    <div>2</div>
+                    <div>
+                        <PieChart/>
+                    </div>
                 </div>
                 <div>3</div>
            </div>
